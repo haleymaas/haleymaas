@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @haleymaas
-- 👀 I’m interested in the space where data meets sustainability.
-- 🌱 I’m currently learning data analytics. My focus includes SQL, R, and Tableau for the time being.
-- 📫 I'm most reachable via LinkedIn - /haleymaas
+- Hi, I’m @haleymaas
+- I'm interested in the space where data meets sustainability. 
+- I'm a self-taught data analyst with a deep need for fulfilling work that pushes boundaries, both personally or professionally.
+- I'm a dedicated environmentalist with particular interests in regenerative agriculture and ocean conservation. 
+- Right now, I'm working to develop my data visualization and coding skills, including SQL, Tableau, and R.
+- I'm most reachable via LinkedIn - https://www.linkedin.com/in/haleymaas/
 
 <!---
 haleymaas/haleymaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
